@@ -1,6 +1,7 @@
 # Exercise 9 - Case 3
 
 ## Instructions:
+```
 1. Use your editor to open the ja_vynes_txt.html and ja_quote_txt.js files from the html09 > case3 folder. Enter your name and the date in the comment section of each file, and save them as ja_vynes.html and ja_quote.js respectively
 2. Go to the ja_vynes.html file in your editor. Directly above the closing </head> tag, insert a script element that links the page to the ja_quote.js file. Defer the loading of the script file until the rest of the page is loaded by the browser
 3. Study the contents of the file and then save your changes
@@ -12,3 +13,4 @@
 9. Add appropriate comments to your code to document your work
 10. Save your changes to the file and then open the ja_vynes.html file in your browser. Verify that a random Jane Austen quote appears at the top of the 
 11. Reload the page several times and verify that with each reloading, a different Austen quote appears on the page
+```
